@@ -1,0 +1,12 @@
+# Number Guessing Game 🎯
+
+A CLI based Python game where the computer selects a random number and the player guesses it.
+
+## Features
+- Random number generation
+- Hint system (Too High / Too Low)
+- Score calculation
+- Best score saved
+
+## Run
+python main.py
